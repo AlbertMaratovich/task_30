@@ -5,6 +5,6 @@
 2) pytest-selenium
 3) selenium
 
-Интерператор - pytest
+Интерпретатор - pytest
 
 Далее просто нажать кнопку Run.
